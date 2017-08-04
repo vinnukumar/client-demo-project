@@ -91,7 +91,7 @@ button {
 </style>
 <body>
 
-<h2>Modal Signup Form - AWS CodePipeline</h2>
+<h2>Modal Signup Form - AWS CodePipeline-Demo Test</h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Sign Up</button>
 

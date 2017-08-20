@@ -60,6 +60,7 @@
 	</build>
 	  <properties>
             <project.scm.id>git</project.scm.id>
+	<sonar.host.url>http://34.205.90.188:9000/</sonar.host.url>  
          </properties>
 	  <scm>
 		<url>https://github.com/NagireddyGuduru/client-demo-project</url>
